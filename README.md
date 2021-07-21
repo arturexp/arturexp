@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @arturexp, I'm from Russia. I'm 35 years old.
-- 👀 I’m interested in Unity and C# programming.Games. IT.
-- 🌱 I’m currently learning C# and Unity.
-- 💞️ I’m looking to collaborate on game design.
+- 👀 I’m interested in Python
+- 🌱 I’m currently learning Python.
 - 📫 How to reach me: gmail (nick the same)
 
 <!---
